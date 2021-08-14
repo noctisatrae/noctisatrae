@@ -1,1 +1,1 @@
-![Metrics](./github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/noctisatrae/noctisatrae/main/github-metrics.svg)
