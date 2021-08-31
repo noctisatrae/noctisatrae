@@ -14,7 +14,7 @@ jobs:
         with:
           template: classic
           plugin_notable: yes
-          plugin_notable_filter: stars:>2000 # Only display repositories with 500 stars or more (syntax based on GitHub search query)
+          plugin_notable_filter: stars:>13000 # Only display repositories with 500 stars or more (syntax based on GitHub search query)
           plugin_notable_repositories: yes
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
