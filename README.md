@@ -3,7 +3,7 @@ Hi 👋 ! So you found my GitHub profile ? Here is a little summary of what you 
 - The languages I have a good experience with
 - The frameworks/tools I've been using.
 - Some projects and contributions.
-- A little about me
+- A little about me.
 
 ## Languages
 ## Frameworks/Tools
