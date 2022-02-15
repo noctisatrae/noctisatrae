@@ -16,3 +16,5 @@ I'm just another dev in high school (10th grade). My long-term goal is to even m
 
 Currently, I'm learning :
 - Reverse-Engineering 
+- Ethical hacking & vulnerabilities researching
+- Gamedev
