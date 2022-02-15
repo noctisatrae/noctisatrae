@@ -12,3 +12,4 @@ Hi 👋 ! So you found my GitHub profile ? Here is a little summary of what you 
 - [⚡ chanceof.xyz - What are the chances of XYZ (built during a hackathon with fine folks) ?](https://chanceof.xyz)
 
 ## *whoami*
+I'm just another dev in high school (10th grade). My long-term goal is to even more commit myself into open-source and maybe contribute to the linux repository !
