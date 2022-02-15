@@ -5,7 +5,5 @@ Hi 👋 ! So you found my GitHub profile ? Here is a little summary of what you 
 - Some projects and contributions.
 - A little about me.
 
-## Languages
-## Frameworks/Tools
-## Projects and contributions
-## About me
+## What am I using to build ?
+![Tools](./Languages.svg)
