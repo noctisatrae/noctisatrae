@@ -2,7 +2,7 @@
 Hi 👋 ! So you found my GitHub profile ? Here is a little summary of what you can find here.
 
 ## What am I using to build ?
-![Deno](https://github.com/denolib/animated-deno-logo/raw/master/deno-rect-24fps.gif)
+<img src="https://deno.land/images/artwork/DenoLogo3D-Anim.gif?__frsh_c=gygasm0xhjmg" width="100">
 <img src="https://gun.eco/media/gun.svg" width="100">
 
 ## What did I build ?
