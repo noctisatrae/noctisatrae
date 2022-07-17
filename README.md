@@ -2,7 +2,7 @@
 Hi 👋 ! So you found my GitHub profile ? Here is a little summary of what you can find here.
 
 ## What am I using to build ?
-<img src="https://deno.land/images/artwork/DenoLogo3D-Anim.gif?__frsh_c=gygasm0xhjmg" width="100">
+![d](https://deno.land/images/artwork/DenoLogo3D-Anim.gif?__frsh_c=gygasm0xhjmg)
 <img src="https://gun.eco/media/gun.svg" width="100">
 
 ## What did I build ?
