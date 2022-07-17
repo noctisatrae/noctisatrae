@@ -3,7 +3,7 @@ Hi 👋 ! So you found my GitHub profile ? Here is a little summary of what you 
 
 ## What am I using to build ?
 ![Deno](https://github.com/denolib/animated-deno-logo/raw/master/deno-rect-24fps.gif)
-![gun.eco](https://gun.eco/media/gun.svg | width=100)
+<img src="https://gun.eco/media/gun.svg" width="100">
 
 ## What did I build ?
 - [👽 Gunpoint - A rest API to interact with the gun.eco database](https://github.com/noctisatrae/gunpoint)
