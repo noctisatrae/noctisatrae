@@ -2,7 +2,7 @@
 Hi 👋 ! So you found my GitHub profile ? Here is a little summary of what you can find here.
 
 ## What am I using to build ?
-![Deno](https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg)
+![Deno](https://github.com/denolib/animated-deno-logo/raw/master/deno-rect-24fps.gif)
 
 ## What did I build ?
 - [👽 Gunpoint - A rest API to interact with the gun.eco database](https://github.com/noctisatrae/gunpoint)
