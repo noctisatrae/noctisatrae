@@ -2,7 +2,7 @@
 Hi 👋 ! So you found my GitHub profile ? Here is a little summary of what you can find here.
 
 ## What am I using to build ?
-<div style="display:grid; grid-column-gap: 30px; grid-row-gap: 0px;">
+<div style="display:grid; text-align:center">
 <img src="https://deno.land/images/artwork/space_deno.png?__frsh_c=gygasm0xhjmg" width="100">
 <img src="https://gun.eco/media/gun.svg" width="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="75">
