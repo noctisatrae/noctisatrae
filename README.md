@@ -2,6 +2,7 @@
 Hi 👋 ! So you found my GitHub profile ? Here is a little summary of what you can find here.
 
 ## What am I using to build ?
+<div class="display:flex; align-content:center;">
 <div style="display:grid;">
 <img src="https://deno.land/images/artwork/space_deno.png?__frsh_c=gygasm0xhjmg" width="100">
 <img src="https://gun.eco/media/gun.svg" width="100">
@@ -10,6 +11,7 @@ Hi 👋 ! So you found my GitHub profile ? Here is a little summary of what you 
 <img src="https://preactjs.com/assets/app-icon.png" width="100">
 <img src="https://bun.sh/logo.svg" width="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/256px-Ethereum_logo_2014.svg.png" width="50">
+</div>
 </div>
 
 ## What did I build ?
