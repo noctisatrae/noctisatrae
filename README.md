@@ -7,6 +7,7 @@ Hi 👋 ! So you found my GitHub profile ? Here is a little summary of what you 
 <img src="https://gun.eco/media/gun.svg" width="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="100">
+<img src="https://preactjs.com/assets/app-icon.png" width="100">
 <img src="https://bun.sh/logo.svg" width="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/256px-Ethereum_logo_2014.svg.png" width="50">
 </div>
