@@ -17,6 +17,7 @@ Hi 👋 ! So you found my GitHub profile ? Here is a little summary of what you 
 </div>
 
 ## What did I build ?
+- [succus-soccor - Hackathon project allowing you to chat with the whole ETH ecosystem.](https://jb-hack1.vercel.app/)
 - [👽 Gunpoint - A rest API to interact with the gun.eco database](https://github.com/noctisatrae/gunpoint)
 - [📚 gun.net - The C# version of gun.eco](https://github.com/noctisatrae/gun.net)
 - [☁️ era-cloud - decentralized file hosting service](https://github.com/noctisatrae/era-cloud)
