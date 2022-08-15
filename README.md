@@ -1,11 +1,12 @@
 # [@noctisatrae 👺](https://twitter.com/@noctisatrae)
-Hi 👋 ! So you found my GitHub profile ? Here is a little summary of what you can find here.
+Hi 👋! I'm happy you're here. My name is Hector and I'm striving to become a better open-source contributor. I'd like to learn how to create and not only to use. Feel free to send a message, kind stranger.
 
 ## What am I using to build ?
 <div class="display:flex; align-content:center;">
 <div style="display:grid;">
 <img src="https://deno.land/images/artwork/space_deno.png?__frsh_c=gygasm0xhjmg" width="100">
 <img src="https://gun.eco/media/gun.svg" width="100">
+<img src="https://astro.build/assets/press/logomark-light.svg" width="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="75">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="100">
 <img src="https://preactjs.com/assets/app-icon.png" width="100">
@@ -17,16 +18,17 @@ Hi 👋 ! So you found my GitHub profile ? Here is a little summary of what you 
 </div>
 
 ## What did I build ?
-- [succus-soccor - Hackathon project allowing you to chat with the whole ETH ecosystem.](https://jb-hack1.vercel.app/)
+- [🧚‍♂️ succus-soccor - Hackathon project allowing you to chat with the whole ETH ecosystem.](https://jb-hack1.vercel.app/)
 - [👽 Gunpoint - A rest API to interact with the gun.eco database](https://github.com/noctisatrae/gunpoint)
 - [📚 gun.net - The C# version of gun.eco](https://github.com/noctisatrae/gun.net)
 - [☁️ era-cloud - decentralized file hosting service](https://github.com/noctisatrae/era-cloud)
 - [⚡ chanceof.xyz - What are the chances of XYZ (built during a hackathon with fine folks) ?](https://chanceof.xyz)
 
 ## *whoami*
-I'm just another dev in high school (10th grade). My long-term goal is to even more commit myself into open-source and maybe contribute to the linux repository one day. I didn't list all the tools I've used because I prefer to showcase only what *I really like to use*. However, I love to learn whatever I find interesting may it be about programming or something else.
+On the internet, you could be a dog, it wouldn't change anything.
 
-Currently, I'm learning :
-- Reverse-Engineering 
-- Ethical hacking & vulnerabilities researching
-- Gamedev
+Currently, I'm working on :
+- learning Haskell/Rust
+- learning the basics of machine learning (currently learning to apply a vectorized version of my initial implementation)
+- building succus (a hackathon project that I want to improve)
+- hacking gun.eco to customize the database.
