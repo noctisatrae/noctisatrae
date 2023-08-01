@@ -23,12 +23,4 @@ Hi 👋! I'm happy you're here. My name is Hector and I'm striving to become a b
 - [📚 gun.net - The C# version of gun.eco](https://github.com/noctisatrae/gun.net)
 - [☁️ era-cloud - decentralized file hosting service](https://github.com/noctisatrae/era-cloud)
 - [⚡ chanceof.xyz - What are the chances of XYZ (built during a hackathon with fine folks) ?](https://chanceof.xyz)
-
-## *whoami*
-On the internet, you could be a dog, it wouldn't change anything.
-
-Currently, I'm working on :
-- learning Haskell/Rust
-- learning the basics of machine learning (currently learning to apply a vectorized version of my initial implementation)
-- building succus (a hackathon project that I want to improve)
-- hacking gun.eco to customize the database.
+- [🔑 farsign - a package that allows to implement easy sign-in for Farcaster-based apps](https://github.com/noctisatrae/farsign)
