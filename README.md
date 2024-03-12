@@ -1,4 +1,5 @@
-# Hector
+# noctis' page
+It's been a little been empty than before (look at the commit history), but I really wanted to showcase new stuff. As I'm improving, the time to make something good has also risen up a lot.
 ## What am I using to build ?
 <div class="display:flex; align-content:center;">
 <div style="display:grid;">
