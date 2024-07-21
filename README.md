@@ -13,5 +13,6 @@ It's been a little been empty than before (look at the commit history), but I re
 </div>
 
 ## As of today, what am I proud of?
+- [🌇 farseer - a composable, extendable & lightweight implementation of a Farcaster hub](https://github.com/noctisatrae/farseer)
 - [🔑 farsign - a (now deprecated) package that allows to implement easy sign-in for Farcaster-based apps](https://github.com/noctisatrae/farsign)
 - [👁️ Define & start concurrent and distributed `nmap` scans leveraging Elixir's power](https://github.com/noctisatrae/syphon)
